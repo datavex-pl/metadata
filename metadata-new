@@ -1,0 +1,13 @@
+{
+  "pub_key": "BLS_VER_KEY~DSuSlRRxb14a6GuwzKyeOKaCvO9agFFNS1nEidcsERJ2L1HSzpUuf-8aWBCVEU9TaHR3VBv1Mfb4ZZUlPT_6AyZeyPVpeuakRsGsEqRcirhf9SmPz3f5IlkhJuOFA_QlFzjcu_Oq-iMtcedmWJbKgKeCYxoH9WTIGJkV908ev6q1",
+  "name": "DataVex",
+  "description": "DataVex staking node running on Decaf testnet",
+  "company_name": "DataVex",
+  "company_website": "https://datavex.eu/",
+  "country_code": "PL",
+  "client_version": "v1.0.0",
+  "icon": {
+    "14x14": { "@1x": "https://pbs.twimg.com/profile_images/1991262608830148609/bRXO9DQe_400x400.jpg", "@2x": "https://pbs.twimg.com/profile_images/1991262608830148609/bRXO9DQe_400x400.jpg", "@3x": "https://pbs.twimg.com/profile_images/1991262608830148609/bRXO9DQe_400x400.jpg" },
+    "24x24": { "@1x": "https://pbs.twimg.com/profile_images/1991262608830148609/bRXO9DQe_400x400.jpg", "@2x": "https://pbs.twimg.com/profile_images/1991262608830148609/bRXO9DQe_400x400.jpg", "@3x": "https://pbs.twimg.com/profile_images/1991262608830148609/bRXO9DQe_400x400.jpg" }
+  }
+}
