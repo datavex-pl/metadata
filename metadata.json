@@ -1,6 +1,6 @@
 {
   "pub_key": "BLS_VER_KEY~DSuSlRRxb14a6GuwzKyeOKaCvO9agFFNS1nEidcsERJ2L1HSzpUuf-8aWBCVEU9TaHR3VBv1Mfb4ZZUlPT_6AyZeyPVpeuakRsGsEqRcirhf9SmPz3f5IlkhJuOFA_QlFzjcu_Oq-iMtcedmWJbKgKeCYxoH9WTIGJkV908ev6q1",
-  "name": "datavex.eu",
+  "name": "DataVex-01",
   "description": "DataVex staking node running on Decaf testnet",
   "company_name": "DataVex",
   "company_website": "https://datavex.eu/",
