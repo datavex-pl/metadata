@@ -4,7 +4,7 @@
   "description": "DataVex staking node running on Decaf testnet",
   "company_name": "DataVex",
   "company_website": "https://datavex.eu/",
-  "logo": "https://pbs.twimg.com/profile_images/1991262608830148609/bRXO9DQe_400x400.jpg",
+  "icon": "https://pbs.twimg.com/profile_images/1991262608830148609/bRXO9DQe_400x400.jpg",
   "country_code": "PL",
   "client_version": "v1.0.0"
 }
